@@ -1,0 +1,114 @@
+{
+  "recipes": [
+    {
+      "name": "beef chilli",
+      "ingredients": [
+        { "amount": 150,  "unit": "g",  "ingredient": "minced beef" },
+        { "amount": 100,  "unit": "g",  "ingredient": "onion" },
+        { "amount": 100,  "unit": "ml", "ingredient": "water" },
+        { "amount": 300,  "unit": "g",  "ingredient": "tomato" },
+        { "amount": 5,    "unit": "g",  "ingredient": "chilli powder" },
+        { "amount": 300,  "unit": "g",  "ingredient": "red kidney beans" }
+      ]
+    },
+    {
+      "name": "cabbage soup",
+      "ingredients": [
+        { "amount": 80,   "unit": "g",  "ingredient": "carrot" },
+        { "amount": 100,  "unit": "g",  "ingredient": "onion" },
+        { "amount": 150,  "unit": "g",  "ingredient": "tomato" },
+        { "amount": 200,  "unit": "g",  "ingredient": "cabbage" },
+        { "amount": 5,    "unit": "g",  "ingredient": "dry onion soup mix" },
+        { "amount": 70,   "unit": "g",  "ingredient": "green bean" },
+        { "amount": 150,  "unit": "ml", "ingredient": "tomato juice" },
+        { "amount": 100,  "unit": "g",  "ingredient": "celery" },
+        { "amount": 100,  "unit": "ml", "ingredient": "beef broth" }
+      ]
+    },
+    {
+      "name": "chicken soup",
+      "ingredients": [
+        { "amount": 5,    "unit": "g",  "ingredient": "butter" },
+        { "amount": 50,   "unit": "g",  "ingredient": "onion" },
+        { "amount": 30,   "unit": "g",  "ingredient": "celery" },
+        { "amount": 600,  "unit": "ml", "ingredient": "chicken broth" },
+        { "amount": 100,  "unit": "ml", "ingredient": "vegetable broth" },
+        { "amount": 100,  "unit": "g",  "ingredient": "chicken breast" },
+        { "amount": 50,   "unit": "g",  "ingredient": "egg noodle" },
+        { "amount": 50,   "unit": "g",  "ingredient": "carrot" },
+        { "amount": 5,    "unit": "g",  "ingredient": "basil" },
+        { "amount": 5,    "unit": "g",  "ingredient": "oregano" }
+      ]
+    },
+    {
+      "name": "butternut squash soup",
+      "ingredients": [
+        { "amount": 800, "unit": "g",  "ingredient": "butternut squash"},
+        { "amount": 100,  "unit": "g",  "ingredient": "onion"},
+        { "amount": 50,   "unit": "g",  "ingredient": "carrot"},
+        { "amount": 15,   "unit": "g",  "ingredient": "garlic"},
+        { "amount": 10,   "unit": "g",  "ingredient": "thyme"},
+        { "amount": 5,    "unit": "g",  "ingredient": "sage"},
+        { "amount": 200,  "unit": "ml", "ingredient": "chicken broth"},
+        { "amount": 1,    "unit": "g",  "ingredient": "salt"},
+        { "amount": 1,    "unit": "g",  "ingredient": "pepper"},
+        { "amount": 1,    "unit": "g",  "ingredient": "cayenne"},
+        { "amount": 20,   "unit": "ml", "ingredient": "double cream"},
+        { "amount": 5,    "unit": "g",  "ingredient": "parsley"}
+      ]
+    },
+    {
+      "name": "split pea soup",
+      "ingredients": [
+        { "amount": 200,  "unit": "g",  "ingredient": "split peas"},
+        { "amount": 150,  "unit": "g",  "ingredient": "onion"},
+        { "amount": 50,   "unit": "g",  "ingredient": "carrot"},
+        { "amount": 50,   "unit": "g",  "ingredient": "celery"},
+        { "amount": 10,   "unit": "g",  "ingredient": "garlic"},
+        { "amount": 10,   "unit": "g",  "ingredient": "thyme"},
+        { "amount": 10,   "unit": "g",  "ingredient": "ground ginger"},
+        { "amount": 2,    "unit": "g",  "ingredient": "chili flakes"},
+        { "amount": 500,  "unit": "ml", "ingredient": "chicken broth"},
+        { "amount": 30,   "unit": "g",  "ingredient": "bacon"},
+        { "amount": 1,    "unit": "g",  "ingredient": "salt"},
+        { "amount": 1,    "unit": "g",  "ingredient": "black pepper"}
+      ]
+    },
+    {
+      "name": "corn chowder",
+      "ingredients": [
+        { "amount": 200,  "unit": "g",  "ingredient": "baby potatoes"},
+        { "amount": 10,   "unit": "g",  "ingredient": "plain flour"},
+        { "amount": 500,  "unit": "ml", "ingredient": "chicken broth"},
+        { "amount": 200,  "unit": "g",  "ingredient": "sweetcorn"},
+        { "amount": 5,    "unit": "g",  "ingredient": "thyme"},
+        { "amount": 5,    "unit": "g",  "ingredient": "basil"},
+        { "amount": 5,    "unit": "g",  "ingredient": "onion powder"},
+        { "amount": 1,    "unit": "g",  "ingredient": "salt"},
+        { "amount": 1,    "unit": "g",  "ingredient": "black pepper"},
+        { "amount": 200,  "unit": "g",  "ingredient": "chicken"},
+        { "amount": 50,   "unit": "g",  "ingredient": "cheese"},
+        { "amount": 20,   "unit": "ml", "ingredient": "milk"},
+        { "amount": 10,   "unit": "ml", "ingredient": "double cream"},
+        { "amount": 10,   "unit": "g",  "ingredient": "bacon"},
+        { "amount": 20,   "unit": "g",  "ingredient": "chives"}
+      ]
+    },
+    {
+      "name": "mulligatawny soup",
+      "ingredients": [
+        { "amount": 50,   "unit": "g",  "ingredient": "onion" },
+        { "amount": 60,   "unit": "g",  "ingredient": "carrot" },
+        { "amount": 60,   "unit": "g",  "ingredient": "celery" },
+        { "amount": 30,   "unit": "g",  "ingredient": "butter" },
+        { "amount": 5,    "unit": "g",  "ingredient": "flour" },
+        { "amount": 5,    "unit": "g",  "ingredient": "curry powder" },
+        { "amount": 500,  "unit": "ml", "ingredient": "chicken broth" },
+        { "amount": 100,  "unit": "g",  "ingredient": "apple" },
+        { "amount": 20,   "unit": "g",  "ingredient": "rice" },
+        { "amount": 100,  "unit": "g",  "ingredient": "chicken breast" },
+        { "amount": 60,   "unit": "ml", "ingredient": "double cream" }
+      ]
+    }    
+  ]
+}
